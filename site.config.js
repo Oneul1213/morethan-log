@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `test-log`,
+      href: "https://github.com/Oneul1213/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "test-log",
+    description: "this is test log!",
   },
 
   // CONFIG configration (required)
@@ -53,9 +53,9 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
+      repo: "Oneul1213/morethan-log,
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
