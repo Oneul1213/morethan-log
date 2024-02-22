@@ -55,7 +55,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: "Oneul1213/morethan-log,
+      repo: "Oneul1213/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
