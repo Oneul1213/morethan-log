@@ -53,7 +53,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: "Oneul1213/morethan-log",
       "issue-term": "og:title",
